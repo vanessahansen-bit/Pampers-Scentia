@@ -1,0 +1,6 @@
+{
+  "name": "Pampers Scentia Analytics",
+  "description": "Dashboard ejecutivo de consumo (MSU), sell-out, Value Share (SOV), canales y segmentación por tiers para Pampers Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
